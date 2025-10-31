@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homy</string>
+    <string name="location_permission_rationale">We need access to location to show you nearby properties, calculate distances to properties you\'re interested in, and provide location-based recommendations</string>
+</resources> 
